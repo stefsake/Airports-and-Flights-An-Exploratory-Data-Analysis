@@ -1,4 +1,4 @@
-use FlightCancelations
+use FlightCancellations
 go
 
 
